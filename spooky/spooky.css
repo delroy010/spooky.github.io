@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(15, 20, 40);
+    margin: 20px;
+}
+
+.text {
+    border-radius: 20px;
+    text-shadow: 100cm;
+    text-transform: uppercase;
+    transform-style: preserve-3d;
+    text-align: center;
+    background-color: rgba(121, 34, 46, 23);
+    margin-bottom: 2%;
+    }
+.image {
+    border-radius: 10px;
+    text-align: center;
+    }
+.image img{
+    border-radius: 50px;
+    border-color: blue;
+    height: 220px;
+    width: 230px;
+    }
